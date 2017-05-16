@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tiy-dallas-march-2017-fee/express-create-react-app-example/issues"
   },
-  "homepage": "https://github.com/tiy-dallas-march-2017-fee/express-create-react-app-example#readme"
+  "homepage": "https://github.com/tiy-dallas-march-2017-fee/express-create-react-app-example#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
